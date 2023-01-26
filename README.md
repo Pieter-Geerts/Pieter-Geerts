@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pieter-Geerts
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on any python or java project
+- 💞️ I’m looking to collaborate on any python, flutter or java project
 - 📫 How to reach me pgeerts[@]gmail[.]com
 
 <!---
