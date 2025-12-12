@@ -2,11 +2,42 @@
 
 Welcome to my GitHub profile! I'm enthusiastic about exploring new horizons in technology and software development. Here's a bit about me:
 
-- 🔭 I’m currently diving deep into the realms of full-stack development, eager to craft innovative solutions and learn from every line of code.
-- 🌱 I thrive on the thrill of learning new skills and technologies. The journey of mastering Python, Flutter, and Java keeps me fueled and fascinated.
-- 👀 I'm always on the lookout for exciting opportunities to collaborate on projects that challenge and inspire me. Let's build something awesome together!
-- 💞️ I'm particularly interested in contributing to projects related to Python, Flutter, or Java. If you have any exciting ventures, count me in!
-- 📫 Feel free to drop me a line at pgeerts[@]gmail[.]com. I'm open to discussions, collaborations, or just exchanging ideas over a virtual coffee.
-- Loving the Home Assistant project! It's amazing how technology can seamlessly integrate with our lives, making them smarter and more efficient.
 
 Let's connect, innovate, and create a brighter digital future together! ✨
+### Hi — I'm Pieter Geerts 👋
+
+I'm a curious and driven developer focused on building practical, maintainable software. I enjoy full‑stack development and have a particular interest in Python, Flutter, and Java. I also love tinkering with Home Assistant to bring smart functionality to everyday life.
+# Pieter Geerts
+
+[![Follow on GitHub](https://img.shields.io/github/followers/Pieter-Geerts?label=Follow&style=social)](https://github.com/Pieter-Geerts?tab=followers) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pieter-Geerts&layout=compact&hide=html)](https://github.com/Pieter-Geerts)
+
+[![Pieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieter-Geerts&show_icons=true&theme=default)](https://github.com/Pieter-Geerts)
+
+### Hi — I'm Pieter Geerts 👋
+
+I'm a curious and driven developer focused on building practical, maintainable software. I enjoy full‑stack development and have a particular interest in Python, Flutter, and Java. I also love tinkering with Home Assistant to bring smart functionality to everyday life.
+
+- 🔭 Currently: building full‑stack apps and learning advanced Flutter patterns
+- 🌱 Always learning: Python, Flutter, Java, and modern web tooling
+- 👯 Open to collaborating on Python/Flutter/Java projects
+- 💬 Talk to me: `pgeerts@gmail.com`
+- ⚡ Fun fact: I enjoy integrating Home Assistant automations for smarter homes
+
+---
+
+**Highlights**
+
+- Strong foundation in Python and backend development
+- Cross-platform UI work with Flutter
+- Java for tooling and Android integrations
+- Practical interest in home automation (Home Assistant)
+
+**Badges & How to add more**
+
+Use these URLs to add or tweak badges in this file (replace `Pieter-Geerts` with your username if needed):
+
+- GitHub stats card: `https://github-readme-stats.vercel.app/api?username=Pieter-Geerts&show_icons=true`
+- Top languages: `https://github-readme-stats.vercel.app/api/top-langs/?username=Pieter-Geerts&layout=compact`
+- Followers badge: `https://img.shields.io/github/followers/Pieter-Geerts?label=Follow&style=social`
+
+---
