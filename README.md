@@ -1,20 +1,38 @@
 # Pieter Geerts
 
-[![Pieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pieter-Geerts&show_icons=true&theme=default)](https://github.com/Pieter-Geerts)
+Hi, I'm Pieter. I'm a developer who builds reliable, maintainable software — with a soft spot for home automation. Formerly, I worked on integrations and tooling for smart-home projects.
 
-[![Follow on GitHub](https://img.shields.io/github/followers/Pieter-Geerts?label=Follow&style=social)](https://github.com/Pieter-Geerts?tab=followers) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pieter-Geerts&layout=compact&hide=html)](https://github.com/Pieter-Geerts)
+Previously worked on / with: [`Home Assistant` integration projects](https://github.com/topics/home-assistant) • community contributions
 
-### Hi — I'm Pieter Geerts 👋
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pieter-Geerts&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pieter-Geerts&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pieter-Geerts&theme=dracula) |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 
-I'm a curious and driven developer focused on building practical, maintainable software. I enjoy full‑stack development and have a particular interest in Python, Flutter, and Java. I also love tinkering with Home Assistant to bring smart functionality to everyday life.
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
 
-- 🔭 Currently: building full‑stack apps and learning advanced Flutter patterns
-- 🌱 Always learning: Python, Flutter, Java, and modern web tooling
-- 👯 Open to collaborating on Python/Flutter/Java projects
-- 💬 Talk to me: `pgeerts@gmail.com`
-- ⚡ Fun fact: I enjoy integrating Home Assistant automations for smarter homes
+## Recent Projects
+
+1. [homeassistant-myskoda](https://github.com/Pieter-Geerts/homeassistant-myskoda) (Python)
+   - Home Assistant integration for MySkoda — lets Home Assistant access vehicle data and automations.
+2. [healthbox-hacs](https://github.com/Pieter-Geerts/healthbox-hacs) (Python)
+   - HACS integration for Renson Healthbox 3 — adds device support and automations to Home Assistant.
 
 ---
+
+### Quick facts
+
+- 🔭 I build integrations, backend tools, and cross-platform apps.
+- 🌱 I learn by forking projects, contributing, and experimenting with Home Assistant.
+- 📫 Reach me: `pgeerts@gmail.com`
+
+---
+
+If you want, I can:
+
+- Replace the generic "Previously worked on" line with specific companies or links you want to show.
+- Reorder the projects by stars or recent commits.
+- Add more badges (followers, license, commit streak) or a compact two-column layout.
+
+## Tell me which of the above you'd like and I'll update the README again.
 
 **Highlights**
 
@@ -22,4 +40,3 @@ I'm a curious and driven developer focused on building practical, maintainable s
 - Cross-platform UI work with Flutter
 - Java for tooling and Android integrations
 - Practical interest in home automation (Home Assistant)
-
